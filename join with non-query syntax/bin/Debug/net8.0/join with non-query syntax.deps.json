@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "join with non-query syntax/1.0.0": {
+        "runtime": {
+          "join with non-query syntax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "join with non-query syntax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

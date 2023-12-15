@@ -1,0 +1,14 @@
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\join with non-query syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\join with non-query syntax.AssemblyInfoInputs.cache
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\join with non-query syntax.AssemblyInfo.cs
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\join with non-query syntax.csproj.CoreCompileInputs.cache
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\bin\Debug\net8.0\join with non-query syntax.exe
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\bin\Debug\net8.0\join with non-query syntax.deps.json
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\bin\Debug\net8.0\join with non-query syntax.runtimeconfig.json
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\bin\Debug\net8.0\join with non-query syntax.dll
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\bin\Debug\net8.0\join with non-query syntax.pdb
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\join with non-query syntax.dll
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\refint\join with non-query syntax.dll
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\join with non-query syntax.pdb
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\join with non-query syntax.genruntimeconfig.cache
+C:\Users\abdo\source\repos\join with non-query syntax\join with non-query syntax\obj\Debug\net8.0\ref\join with non-query syntax.dll
